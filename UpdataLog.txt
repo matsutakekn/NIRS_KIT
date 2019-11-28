@@ -1,0 +1,2 @@
+Version Beta3 Released 2019112
+- Modify the UI of option panel
